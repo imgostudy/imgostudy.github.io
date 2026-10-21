@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imgostudy.github.io/review-notes/sitemap.xml
